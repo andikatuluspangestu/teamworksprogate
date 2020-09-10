@@ -160,6 +160,7 @@
     }
     .card-container .card {
         margin-top: 15px;
+        box-shadow: none;
     }
     .facebook {
         width: 20px;
