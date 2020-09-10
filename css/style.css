@@ -156,7 +156,7 @@ a:hover {
 /* Landing */
 
 .landing {
-    height: 612px;
+    height: 100%;
     width: 100%;
     background-color: #0e6cc4;
     display: flex;
