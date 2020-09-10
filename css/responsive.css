@@ -1,7 +1,10 @@
 
-/* Navbar - Headers */
+/* Navbar - Headers - General */
 
 @media screen and (max-width: 768px) {
+    .body {
+        background: linear-gradient(to right, #3a7bd5, #4aa4d1);
+    }
     .header {
         position: fixed;
         width: 100%;
